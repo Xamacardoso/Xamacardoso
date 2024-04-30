@@ -13,7 +13,7 @@
 
 <div style="display: flex; align-items: flex-start;">
     <h3 id="conecte" style="margin-top: 0; margin-right: 0;">Connect with me:</h3>
-    <img style = "margin-top: 0" align="right" id="status" src="https://github-readme-stats.vercel.app/api?username=xamacardoso&show_icons=true&locale=en&theme=midnight-purple" alt="xamacardoso" width="375" />
+    <img align="right" id="status" src="https://github-readme-stats.vercel.app/api?username=xamacardoso&show_icons=true&locale=en&theme=midnight-purple" alt="xamacardoso" width="375" />
 </div>
 
 
