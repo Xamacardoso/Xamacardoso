@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xamã Cardoso</h1>
 
-<h3 align="center">A student of Analysis and Systems Development at Federal Institute of Piauí</h3>
+<h3 align="center">A student of Systems Analysis and Development at Federal Institute of Piauí</h3>
 <br>
 
 - 🌱 I’m currently learning **Python, C, Java, JavaScript (and TypeScript), GdScript, SQL, Figma, HTML, CSS**
