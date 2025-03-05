@@ -3,7 +3,7 @@
 <h3 align="center">A student of Systems Analysis and Development at Federal Institute of Piauí</h3>
 <br>
 
-- 🌱 I’m currently learning **Python, C, Java, JavaScript (and TypeScript), GdScript, SQL, Figma, HTML, CSS**
+- 🌱 I’m currently learning **Java, JavaScript (and TypeScript), PostgreSQL, Spring Boot and GdScript**
 
 - 📫 How to reach me **contato.xcardoso@gmail.com**
 
