@@ -1,36 +1,78 @@
-<h1 align="center">Hi 👋, I'm Xamã Cardoso</h1>
+# Hi 👋, I'm Xamã Cardoso
 
-<h3 align="center">A student of Systems Analysis and Development at Federal Institute of Piauí</h3>
-<br>
+🚀 **Resident in Embedded Systems at IFPI | Full Stack Developer | TypeScript & Node.js Enthusiast**  
+🇧🇷 Brazil
 
-- 🌱 I’m currently learning **Java, JavaScript (and TypeScript), PostgreSQL, Spring Boot and GdScript**
+I am a dedicated **Resident in Embedded Systems at IFPI** with a solid technical foundation and a passion for building efficient, well-structured systems. I combine a growth-oriented mindset with a deep commitment to software engineering best practices, exploring the synergy between hardware and software to create optimized and efficient technological solutions. 
 
-- 📫 How to reach me **contato.xcardoso@gmail.com**
+My primary focus is on **Back-end Development**, specializing in building robust, scalable, and high-performance server-side architectures. I am currently **seeking new opportunities** to apply my expertise and contribute to innovative, high-impact projects. 
 
-+ ⚡ Fun fact:  **I love pudding ❤**
+---
 
-<hr style = "item-color: blue"/>
-
-
-<div style="display: flex; align-items: flex-start;">
-    <h3 id="conecte" style="margin-top: 0; margin-right: 0;">Connect with me:</h3>
-    <img align="right" id="status" src="https://github-readme-stats.vercel.app/api?username=xamacardoso&show_icons=true&locale=en&theme=midnight-purple" alt="xamacardoso" width="375" />
-</div>
-
-
-
+## 🌐 Where to find me
 
 <p align="left">
-<a href="https://linkedin.com/in/xamacardoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xamacardoso" height="30" width="40" /></a>
-<a href="https://fb.com/xamacardoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xamacardoso" height="30" width="40" /></a>
-<a href="https://instagram.com/xamacdz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xamacdz" height="30" width="40" /></a>
+  <a href="https://github.com/Xamacardoso">
+    <img src="https://img.shields.io/badge/GitHub-XAMACARDOSO-181717?style=for-the-badge&logo=github" />
+  </a>
+  <br />
+  <a href="MAILTO:contato.xcardoso@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-contato.xcardoso@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br />
+  <a href="https://www.linkedin.com/in/xamacardoso/">
+    <img src="https://img.shields.io/badge/linkedin-Xamã Cardoso-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<br/>
 
-<div>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=xamacardoso&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="xamacardoso" width = '375'/>
-</div>
+## 🧠 What I do
+
+- 🏗️ Scalable Back-end Architectures
+- 📟 Embedded Systems & Hardware-Software Synergy
+- ⚡ Performance Optimization & Resource Management
+- 🧩 Clean Architecture & Robust System Design
+- 🤖 Automation & Industrial IoT Integrations
+- 🚀 Modern Full-stack Development (TypeScript & Node.js)
+
+---
+
+## 🛠️ Tech Stack
+
+### Front-End:
+
+![HTML](https://img.shields.io/badge/HTML-FD8120?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=css)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3118C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+
+### Backend & DB
+
+![Node.js](https://img.shields.io/badge/Node.js-336633?style=for-the-badge&logo=nodedotjs)
+![fastify](https://img.shields.io/badge/fastify-222222?style=for-the-badge&logo=fastify)
+![nestjs](https://img.shields.io/badge/nestjs-222222?style=for-the-badge&logo=nestjs&logoColor=ff3366)
+![typescript](https://img.shields.io/badge/typescript-3118C6?style=for-the-badge&logo=typescript)
+![drizzle-orm](https://img.shields.io/badge/drizzleorm-212321?style=for-the-badge&logo=drizzle)
+![java](https://img.shields.io/badge/java-FD8120?style=for-the-badge&logo=java)
+![spring-boot](https://img.shields.io/badge/springboot-336633?style=for-the-badge&logo=springboot)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4131B5?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-313131?style=for-the-badge&logo=mongodb)
+
+### Other Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-313131?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-31567D?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C%2B%2B-31567D?style=for-the-badge&logo=c%2B%2B)
+![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-2466ED?style=for-the-badge&logo=docker)
+![nginx](https://img.shields.io/badge/nginx-12A83D?style=for-the-badge&logo=nginx)
+![Git](https://img.shields.io/badge/Git-505050?style=for-the-badge&logo=git)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
+![Trello](https://img.shields.io/badge/Trello-3341AA?style=for-the-badge&logo=trello)
+![Notion](https://img.shields.io/badge/Notion-787779?style=for-the-badge&logo=notion)
+
+---
